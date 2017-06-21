@@ -1,0 +1,22 @@
+{
+  "pieces": [
+    {
+      "name": "XL1",
+      "size":1,
+      "type": 1,
+      "id": 0
+    },
+    {
+      "name": "XL1",
+      "size":1,
+      "type": 1,
+      "id": 1
+    },
+    {
+      "name": "XL1",
+      "size":1,
+      "type": 1,
+      "id": 2
+    }
+  ]
+}

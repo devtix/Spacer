@@ -1,0 +1,14 @@
+{
+   "year":1,
+   "timePlayed":1000,
+
+   "ownedPlanets":1,
+   "discoveredPlanets": 532,
+   "destroyedPlanets":0, 
+   "createdPlanets":0,
+
+   "nameOfMotherPlanet": "Nebula",
+   "nameOfGalaxy": "Scorpius",
+   "nameOfUniverse": "Alphion"
+
+}
